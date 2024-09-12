@@ -4,15 +4,6 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+I'm currently studying different ways through which computers can better understand our world and therefore help us solve problem more efficiently.
+These include but not limited to computer programming particularly functional programming. I especially like [Haskell](https://www.haskell.org/). Recently I've gotten into
+dependently typed functional languages for instance [agda](https://wiki.portal.chalmers.se/agda/pmwiki.php).

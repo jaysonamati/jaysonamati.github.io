@@ -12,7 +12,7 @@ in the Agda, and in the second part we look at an implementation using algebraic
 ## Sequential Decision Problems
 
 To begin with we'll first give a primer to Sequential Decision Problems (SDPs) as formalized using dependent types. If you are not familiar with dependent types a good
-introduction is provided [here](https://golem.ph.utexas.edu/category/2010/03/in_praise_of_dependent_types.html).We wont go into any details pertaining the type theory for dependent types here. A good one liner description of dependent types is
+introduction is provided [here](https://golem.ph.utexas.edu/category/2010/03/in_praise_of_dependent_types.html).We won't go into any details pertaining the type theory for dependent types here. A good one liner description of dependent types is
 "A dependent type system is a type system that increases the expressiveness of a programming language". Programming languages that make use of dependent types are much
 more expressive than ones that use simple type systems, so much so that one can use them to write mathematical proofs. Some well know examples of dependently typed
 languages include [Agda](https://agda.readthedocs.io/en/v2.6.4.3-r1/getting-started/what-is-agda.html), [Lean](https://lean-lang.org/) and [Idris](https://www.idris-lang.org/). We'll use Agda in this post to give a formal description of Sequential Decision Problems.
@@ -62,3 +62,14 @@ the value of the optimal PolicySequence, this is given by the following type and
 OptPolicySeq : {t n : ℕ} → PolicySeq t n → Set
 OptPolicySeq { t } { n } ps = ∀ (ps' : PolicySeq t n) → val ps' ≤ₗ val ps
 ```
+
+With the above we are now able to solve SDPs using bellman induction, this method given and SDP, a value function of the form `val : {t n : ℕ} → (ps : PolicySeq t n) → (x : X t) → Val` which is used to evaluate the measure of rewards along a trajectory (`XYSeq`) that is given with by the Policy Sequence given by `ps`.
+
+To be able to compute the bellman induction we need this Equality to be true `BellmanEq : (t n : ℕ) → (p : Policy t) → (ps : PolicySeq (suc t) n) → (x : X t) →
+            val (p ∷ ps) x ≡ measure (fmapM (reward t x (p x) ⊕ₗ val ps) (next t x (p x)))`,
+This is referred to as the Bellman's Equality.
+
+With bellman's principle and a suitable value function a solution to a Sequaantial Decision problem is the optimal Policy Sequence given by the type
+`OptPolicySeq`. Bellman induction is one of the computations we can do in order to "derive" this sequence.
+
+In the second part of this post we shall look at how all of this is implemented using AlgebraicJulia. See you cyber-space cowboy.

@@ -43,7 +43,7 @@ agda we give the following postulate `postulate Action : State -> State`. It ess
 
 In most real world situations there is an element of uncertainty when taking actions(making decision), the next state after a control is applied is not exactly know
 this could include a list of possible states, or a probability weighted list of next possible states. In order to account for this in decision making, it is prudent to
-consider that an actions may not always be optimal for a given state given the uncertainty of the outcome. In order to surpass this we, instead of giving a list of
+consider that actions may not always be optimal for a given state given the uncertainty of the outcome. In order to surpass this we, instead of giving a list of
 actions to be applied at each state, use a Policy, which is described as a function that takes a given state as input and gives an action that is applied to that
 particular state, this implies that actions are determined per state and not given at the "start" of the decision making process as a plan. We use the following type
 to represent policies in agda `Policy : State -> Action`
@@ -52,9 +52,9 @@ to represent policies in agda `Policy : State -> Action`
 
 Given a policy we can always make a policy sequence that traverses the "state space" using a set of actions. The resulting trajectory can be represented in agda
 as `XYSeq` which is a sequence of states and actions at a particular state. This construction is important in solving the Sequential Decision problem as one can
-easily compute the optimal sequence of Policies from this. To do this one needs to map the value of each policy using the given function and the unit.
+easily compute the optimal sequence of Policies from this. To do this one needs to map the value of each policy using the given reward function and the reward unit.
 
-PolicySequence are crucial in solving SDPs as it is in using them that we can find the solution of a Sequential Decision Problem. This means for instance that
+`PolicySequence`s are crucial in solving SDPs as it is in using them that we can find the solution of a Sequential Decision Problem. This means for instance that
 given a policySequence and a suitable value function we have that a given policySequence is the optimal one if the value of all other policySequences is less than
 the value of the optimal PolicySequence, this is given by the following type and associated function
 

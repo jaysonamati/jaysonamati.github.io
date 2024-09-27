@@ -4,7 +4,7 @@ title:  "My Nth Post"
 date:   2024-09-12 07:08:43 +0300
 categories: applied-category-theory dependent-types graph-rewriting dynamical-systems
 ---
-I made the following post while exploring a construction of a Sequential Decision Problem using [AlgebraicJulia](https://www.algebraicjulia.org/). AlgebraicJulia
+The following post was made while exploring a construction of a Sequential Decision Problem using [AlgebraicJulia](https://www.algebraicjulia.org/). AlgebraicJulia
 gives a collection of various applied category theoretic notions in the Julia programming language. The motivation for this is that Sequential Decision Problems are
 a very interesting object of study as they describe various problems using the same structure.? In the first part we explore what SDPs are and an implementation
 in the Agda, and in the second part we look at an implementation using algebraicJulia.

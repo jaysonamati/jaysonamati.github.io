@@ -50,3 +50,5 @@ even more nuanced look a look at some of the references in the above entries wil
 
 Thank you for your time and attention as we tried to intuit through a central notion in all of category theory and we bet in all of mathematics. See you in
 the future.
+
+Note: This is cross-posted in my [old blog](https://0x-inf.github.io/)

@@ -57,3 +57,5 @@ members of the human species and we think mathematics and tools derived from res
 understanding between people and groups of people. In a way this makes the world more real, more truthful since what is happening, what we can feel, what
 we can sense is coupled with who we are and what we want to see prevail in the world, it brings meaning to everything. My claim is: Mathematics realizes
 the world. And this blog is part of the pursuit to show that is the case.
+
+Note: This is cross-posted in my [old blog](https://0x-inf.github.io/)

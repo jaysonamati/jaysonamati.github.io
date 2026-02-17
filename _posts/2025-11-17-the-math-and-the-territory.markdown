@@ -4,16 +4,15 @@ title:  "The Math and The Territory"
 date:   2025-11-17 07:08:43 +0300
 categories: generative-ai mathematics admissibility-of-math
 ---
-## ![][image1]
-
+## ![Math and territory iceberg meme][image1]
 
 ## Admissibility of Mathematical Evidence
 
-When do we say that a mathematical truth is an accurate account of a phenomenon we are interested in? Much in the same way that a video can be seen as a true representation of some key events, e.g, a wedding, a speech, or a robbery, mathematical artefacts can be viewed as representations of real-world phenomena (Things as we see them). These representations can then be used as relevant materials in other contexts, for instance, video evidence in court or mathematical theorems used in physics and engineering. With video (before the age of AI-generated video), a high degree of trust always came with video evidence of some activity. If I saw a video of a president giving a speech, then it could be said with a high degree of certainty that the speaker in the video indeed made certain statements or remarks. Another compelling example is the use of admissible video evidence in court, such as footage of someone breaking the law on camera. We have utilized institutions to determine the relevance of evidence in the context of the law. For instance, video evidence must meet certain criteria to be admissible in court, such as a chain of custody. We state these examples in order to motivate our discussion on the admissibility of mathematical evidence, particularly in the age of advanced AI systems that can output valid mathematical artifacts (or truths if you like). When is a piece of mathematics relevant? In the same way, we can ask when a video file is relevant in a court of law. 
+When do we say that a mathematical truth is an accurate account of a phenomenon we are interested in? Much in the same way that a video can be seen as a true representation of some key events, e.g, a wedding, a speech, or a robbery, mathematical artefacts can be viewed as representations of real-world phenomena (Things as we see them). These representations can then be used as relevant materials in other contexts, for instance, video evidence in court or mathematical theorems used in physics and engineering. With video (before the age of AI-generated video), a high degree of trust always came with video evidence of some activity. If I saw a video of a president giving a speech, then it could be said with a high degree of certainty that the speaker in the video indeed made certain statements or remarks. Another compelling example is the use of admissible video evidence in court, such as footage of someone breaking the law on camera. We have utilized institutions to determine the relevance of evidence in the context of the law. For instance, video evidence must meet certain criteria to be admissible in court, such as a chain of custody. We state these examples in order to motivate our discussion on the admissibility of mathematical evidence, particularly in the age of advanced AI systems that can output valid mathematical artifacts (or truths if you like). When is a piece of mathematics relevant? In the same way, we can ask when a video file is relevant in a court of law.
 
 Notice that we have introduced the term relevance above. For our discussion on the admissibility of mathematical evidence, *relevance will refer to anything that a person could care about in their meaning-making activities*. In mathematics, this could be the practice of mathematics in and of itself, e.g, using theorems in one field of mathematics to prove theorems in another field, or an application to another field, say engineering, physics, or finance. Given this, we will state the following: a mathematical truth is relevant if it is used in the course of expressing a meaning-making activity. We, therefore, administer mathematical evidence if we use it in some form for meaning-making. For instance, the fundamental theorem of calculus and its application to rocket engineering. We don’t tackle the problem of relevance realization as it is a wide and complex topic that is under active research.
 
-The potential for AI to generate valid mathematical artifacts, for instance [kimina](https://arxiv.org/abs/2504.11354) and [DeepSeek Prover](https://arxiv.org/abs/2504.21801), introduces significant changes to mathematical activity. Following our discussion on relevance, it is important to consider how these tools will impact the use of mathematical truths. Part of this shift stems from the failure modes these systems might & will face. One of the pressing challenges that we see is that of false advertising using valid mathematical artifacts. This is where we have an actor who \- whether malicious or not \- makes use of these math agents to produce mathematics to support potentially dubious claims. This is already happening even without the help of AI. We posit that this will become prevalent as more people have access to genius-level mathematicians in their pockets. This is one example of how the trust in mathematical truths might be compromised, thereby undermining the confidence in a crucial aspect of human society. 
+The potential for AI to generate valid mathematical artifacts, for instance [kimina](https://arxiv.org/abs/2504.11354) and [DeepSeek Prover](https://arxiv.org/abs/2504.21801), introduces significant changes to mathematical activity. Following our discussion on relevance, it is important to consider how these tools will impact the use of mathematical truths. Part of this shift stems from the failure modes these systems might & will face. One of the pressing challenges that we see is that of false advertising using valid mathematical artifacts. This is where we have an actor who \- whether malicious or not \- makes use of these math agents to produce mathematics to support potentially dubious claims. This is already happening even without the help of AI. We posit that this will become prevalent as more people have access to genius-level mathematicians in their pockets. This is one example of how the trust in mathematical truths might be compromised, thereby undermining the confidence in a crucial aspect of human society.
 
 ​In light of these concerns about trust and reliability, it becomes clear that we need new ways to apply mathematical evidence without running the risk of spreading falsehood. Earlier, we discussed how institutions of law have developed systems to apply video evidence in courts reliably; we also need systems that will increase the reliability of mathematical truths. One of the systems we propose is *live-discernment*, whereby human attunement for relevance is at the center of the application of mathematical artifacts. Here, we imagine that many of the mathematical artifacts will be produced by AI agents; therefore, live discernment will enhance human abilities to curate the relevance of these artifacts in their meaning-making activities.
 
@@ -31,7 +30,7 @@ Several articles have been published showing how we can lie with numbers. This w
 
 ![This happens when the mathematical artefact is thinly specified (Hyper specific/ Highly Abstracted).][image2]
 
-*This happens when the mathematical artefact is thinly specified (hyper-specific/ Highly Abstracted).* 
+*This happens when the mathematical artefact is thinly specified (hyper-specific/ Highly Abstracted).*
 
 What makes a mathematical artefact a **false positive**?
 
@@ -49,7 +48,6 @@ There is always this “playful tension” between mathematics and the real worl
 
 As a civilisation, we have held mathematics at a high standard as a representation of truths about our world. People trust the logic and rigour found in mathematics, and this can be hijacked by unscrupulous actors aimed at deceiving. They can use the same logic that is revered by mathematicians and other practitioners to promote false claims. This will be enhanced by math-capable AI Systems that can produce valid math to support any claims, founded or not. One ludicrous example we have been toying with is the Time Cube one. We have teased out a mathematical formalism from an AI that supports the Time Cube theory of a day. The formalisms that the AI generated are valid and can pass a formalism check from any mathematician. If we didn’t know that the Time Cube idea is bonkers, someone could publish the math the AI generated and use it to support the nonsensical idea.  People who have traditionally trusted mathematics might be swayed by the arguments presented in a language they hold in high regard.
 
-
 ### Spoofing Surprise and Relevance
 
 *Surprise and relevance of mathematical artefacts can be spoofed.*
@@ -58,12 +56,11 @@ Sometimes following the rules of a mathematical formalism might lead to surprise
 
 ## False Negatives in relation to Mathematics
 
-![][image3]
+![False negatives of mathematics illustration][image3]
 
 What makes a phenomenon a false negative:
 
 1. A false negative is something meaningful, but we've decided to de-emphasize it because we don't have a mathematical structure for it.
-
 
 Mathematical artefacts can sometimes fall short of capturing a phenomenon we might be interested in. This happens quite often, and we usually introduce assumptions about the real world (or the phenomena we are interested in) so that the mathematics can actually be of use. One reason this happens is due to the rigid structure of these mathematical formalisms. This doesn’t allow them to “grow” into the phenomena we are tracking. It usually requires a mathematician to devise a new structure that is sufficient to represent what we are interested in. And this often doesn’t work. This leads to one “disregarding” the phenomena that the mathematical gadgets failed to capture as irrelevant or unimportant.
 

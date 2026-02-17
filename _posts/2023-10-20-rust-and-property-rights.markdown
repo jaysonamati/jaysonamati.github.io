@@ -59,3 +59,5 @@ can't rule out anything.
 
 This was a fun excursion into the workings of rust and how they correspond to concepts in economic systems. Wonder what purely functional languages like haskell
 have to say about 'real world' things such as resource coordination? Stay tuned!
+
+Note: This is cross-posted in my [old blog](https://0x-inf.github.io/)

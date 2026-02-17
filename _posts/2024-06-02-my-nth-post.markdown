@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "My Nth Post"
+title:  "Dependently Typed Sequential Decision Problems"
 date:   2024-09-12 07:08:43 +0300
-categories: applied-category-theory dependent-types graph-rewriting dynamical-systems
+categories: dependent-types decision-problems formal-system dynamical-systems
 ---
 The following post was made while exploring a construction of a Sequential Decision Problem using [AlgebraicJulia](https://www.algebraicjulia.org/). AlgebraicJulia
 gives a collection of various applied category theoretic notions in the Julia programming language. The motivation for this is that Sequential Decision Problems are
@@ -69,7 +69,7 @@ To be able to compute the bellman induction we need this Equality to be true `Be
             val (p ∷ ps) x ≡ measure (fmapM (reward t x (p x) ⊕ₗ val ps) (next t x (p x)))`,
 This is referred to as the Bellman's Equality.
 
-With bellman's principle and a suitable value function a solution to a Sequaantial Decision problem is the optimal Policy Sequence given by the type
+With bellman's principle and a suitable value function a solution to a Sequential Decision problem is the optimal Policy Sequence given by the type
 `OptPolicySeq`. Bellman induction is one of the computations we can do in order to "derive" this sequence.
 
 In the second part of this post we shall look at how all of this is implemented using AlgebraicJulia. See you cyber-space cowboy.

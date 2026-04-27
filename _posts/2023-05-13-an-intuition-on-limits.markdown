@@ -42,7 +42,9 @@ various ways of knowing are related somehow. How can we use this knowledge to fi
 Enter the concept of a limit, essentially this mathematical construction enables one to know one 'object' that is related to all the other objects in some
 way. Hence knowing that a particular category has a limit gives a mathematician a inkling that they can explore the category in an efficient way and hence
 make certain conclusions about the entire category without necessarily having to know all the objects in the category. This is the intuition we have so far
-and I'm sure this will change in the future as we continue to explore abstractions in the realm of category theory.
+and I'm sure this will change in the future as we continue to explore abstractions in the realm of category theory. We are sweeping a lot of details under
+the rug to make this description work. One of which is that the limit is a "representation" of a certain [diagram](https://ncatlab.org/nlab/show/diagram),
+the Limit diagram and as such it gives a "summary" of that diagram and not necessary the whole category, particularly in the case of [large](https://ncatlab.org/nlab/show/large+category) categories.
 
 For a more formal definition for those that are ever so inclined this [wikipedia article](https://en.wikipedia.org/wiki/Limit_(category_theory)) provides a
 somewhat gentle introduction to the concept. A more in-depth treatment of the same can be seen in this [page](https://ncatlab.org/nlab/show/limit). For an

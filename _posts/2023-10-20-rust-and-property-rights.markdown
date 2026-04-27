@@ -6,7 +6,7 @@ categories: rust programming-language ownership property-rights
 ---
 
 Recently, an interesting thought occurred to us on the connection between Rust's Ownership system and property rights in economic theory. It seems like one can
-take the whole correspondence between programming languages and mathematical theories to another level. In Rust every value has an owner, a function or context
+take the whole [correspondence](https://en.wikipedia.org/wiki/Curry%E2%80%93Howard_correspondence) between programming languages and mathematical theories to another level. In Rust every value has an owner, a function or context
 that is allowed to modify this value, hmm sounds familiar, doesn't it? For us plebs in the early 21st obviously. Yeah, it's a lot like what we currently use as
 the a system of organizing resources. It's where economic actors have ownership rights to resources and they can use them however they want including changing the
 resource. Now, it's not a one to one correspondence but it does give one reason to ponder and it's pretty close. Rust is a programming language and this ownership
@@ -30,7 +30,7 @@ still have resource organization problems in spite of the fact that we have in p
 say much about it. Can Rust give us clues?
 
 Imagine if you will, that a correct program (one that compiles without the unsafe feature) written in rust was an economy with the resources being values (or
-even types, there is an interesting argument that can be made about the relationship between type theory and resource but that's for a later time), and functions
+even types, there is an interesting argument that can be made about the relationship between type theory and resources but that's for a later time), and functions
 that use and produce those value as economic actors. These actors can exchange resources with each other. What does an exchange entail? One may ask, and an
 answer to that lies in the semantics of any particular program or function. For instance, have that function A is one that requires a Vector input (you can think
 of this as a list of values) and in turn gives a sorted list back. Function A can't produce lists by itself and hence would require another source of lists. This

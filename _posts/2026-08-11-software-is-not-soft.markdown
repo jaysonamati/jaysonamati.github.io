@@ -26,9 +26,9 @@ They don't adapt.
 They are often in the way of expression.  
 
 Expression is alive.  
-Interfaces need aliveness.  
-Interfaces need adaptiveness.  
-Interfaces need playfulness[^1].  
+Interfaces need the aliveness of lush jungles.  
+Interfaces need the adaptiveness of clever creatures.  
+Interfaces need the playfulness of martial artists.  
 Play is life.  
 
 Software is not alive.  
@@ -37,4 +37,4 @@ Software needs patches.
 Software needs maintenance.  
 Software is not Software.  
 
-[^1]: Serious play, the kind one might engage in while in flow. [Here](https://www.youtube.com/watch?v=Hkxcb0R4ZOc) is a good summary of this phenomenon.
+<!-- [^1]: Serious play, the kind one might engage in while in flow. [Here](https://www.youtube.com/watch?v=Hkxcb0R4ZOc) is a good summary of this phenomenon. -->

@@ -1,0 +1,22 @@
+---
+layout: random
+comments: true
+title:  "17 August 2026"
+date: 2026-08-17 21:00:00 +0300
+---
+
+- In the context of dynamical systems (preferably as described by [Poly](https://github.com/ToposInstitute/poly)):
+    - There seems to be a material difference between these two statements:
+        - New ways of seeing.
+        - Other ways of seeing.
+            - New vs Other?
+            - 'External' Vs 'Internal'? (in relation to the "host" environment of the dynamical systems)
+- LLMs seem to introduce this "mode of being" where, when faced with a question there seems to be this "default" answer
+  of "ask the LLM" which is different from "Finding out the answer". Ask the LLM is an answer and in my opinion not a good one.
+- Is a [turing machine](https://en.wikipedia.org/wiki/Turing_machine) a calculating or a reasoning machine?
+    - Does a turing machine model calculators or reasoners?
+        - Computers for sure...
+- "In the sense that" (and other variations) is an interesting phrase in the early 21st anglophone zeitgeist.
+    - It's both lazy (almost like conceptual duct tape) and not (highlighting conceptual fuzziness).
+    - The obvious embodiment connotation.
+    - In the sense of a [functor](https://ncatlab.org/nlab/show/functor)... yeah?

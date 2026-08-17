@@ -6,7 +6,7 @@ date: 2026-08-17 21:00:00 +0300
 ---
 
 - In the context of dynamical systems (preferably as described by [Poly](https://github.com/ToposInstitute/poly)):
-    - There seems to be a material difference between these two statements:
+    - There seems to be a material distinction between these two statements:
         - New ways of seeing.
         - Other ways of seeing.
             - New vs Other?

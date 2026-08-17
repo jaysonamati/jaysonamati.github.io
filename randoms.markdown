@@ -4,7 +4,8 @@ title: Randoms
 permalink: /randoms/
 ---
 
-Solicited & Unsolicited thoughts. Not supported by substantial research. Seeds for current and future work.
+Solicited & Unsolicited thoughts. Not supported by substantial research. Seeds for past, current and future work.
+Almost like conversation starters.
 
 <ul>
 {% assign randoms = site.randoms | sort: "date" | reverse %}

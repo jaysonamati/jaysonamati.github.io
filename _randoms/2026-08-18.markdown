@@ -9,6 +9,7 @@ date: 2026-08-18 21:00:00 +0300
 - It's quite a fun (intellectually) time to be an economics nerd.
     - On the micro (time-wise) there is this U.S-Japan Bond/Currency debacle...
         - There is a chance that central banks might start lowering interest rates to attract the carry trade.
+            - This also requires some high skill maneuvering from the bankers.
     - On the macro we have AI and the cognitive labor markets... Oh boy!
     - How these shake out seems to be an interesting evening/weekend study in a few months/years.
 - Entities need intelligence to use intelligence.

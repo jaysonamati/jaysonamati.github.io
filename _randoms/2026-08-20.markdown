@@ -1,0 +1,15 @@
+---
+layout: random
+comments: true
+title:  "19 August 2026"
+date: 2026-08-19 21:00:00 +0300
+---
+
+- Why is my local LLM not quite [mind](https://osf.io/preprints/psyarxiv/t6e8p_v1) enough?
+    - I suppose one needs a mind to find this out.
+    - How mind is an LLM (say a sufficiently large one, say [Kimi K2.6](https://huggingface.co/moonshotai/Kimi-K2.6))?
+- Cool that anima-ted mathematics exists.
+    - From anima, another name for [these](https://ncatlab.org/nlab/show/infinity-groupoid).
+    - This also hints at how mathematics can be animated with computer implementations.
+        - See for instance [cubical type theory](https://arxiv.org/abs/1611.02108).
+

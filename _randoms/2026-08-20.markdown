@@ -1,8 +1,8 @@
 ---
 layout: random
 comments: true
-title:  "19 August 2026"
-date: 2026-08-19 21:00:00 +0300
+title:  "20 August 2026"
+date: 2026-08-20 21:00:00 +0300
 ---
 
 - Why is my local LLM not quite [mind](https://osf.io/preprints/psyarxiv/t6e8p_v1) enough?

@@ -1,0 +1,38 @@
+---
+layout: random
+comments: true
+title:  "21 August 2026"
+date: 2026-08-21 21:00:00 +0300
+---
+
+- To understand the limits of a formal system (e.g mathematics) one needs to understand it's foundations (e.g set theory or HoTT or [HOTT](https://ncatlab.org/nlab/show/higher+observational+type+theory)).
+    - Whether one **only** needs to understand the foundations is not resolved for me.
+    - This could be one way in which to "break" out of the formal system.
+    - Does this mean then that to develop a "new mathematics" it is sufficient to develop novel foundations?
+        - Foundations both for "computers" and also for our minds.
+    - Wonder what [Godel](https://en.wikipedia.org/wiki/Kurt_G%C3%B6del) has to say about this.
+- Software as a living computational medium.
+    - Malleable computing...
+- There is this reduction of time from thought to actualization, particularly in computer systems that makes the computers feel malleable.
+  From a programming perspective this feels great compared to 3 yrs ago (even 2, even 1) when the lag between "seeing" a program in the mind
+  and excecuting that program was large. Now it is almost immediate, there is virtually no lag for some programs, there are countless of anecdotes
+  of people one-shoting apps.
+    - I like to view this as the computation age finally coming to its own. Computation is finally a medium.
+        - Similar to how literacy levels made reading and writing a medium of being, computation is becoming a medium for being.
+        - A few years ago this was reserved to "high priest programmers".
+    - A lag that is finally visible is that of fit, impact and actualizing the potential of an idea or thought.
+        - One has (had) to create an organization around an application (or invention) in order for it to "scale".
+            - This does not need to be the case.
+        - Creating and running an organization (excecution) is laggy.
+            - How do we eliminate this "real world" lag?
+            - Or at least reduce it significantly.
+            - a potential:
+                - Creating a computational substrate through which organizations can form, coordinate, adapt, and dissolve with far less administrative cost.
+                - Imagine an org existing for 30 seconds, but creating meaningful value in that time... the same can be said for programs.
+                - Basically organizing at the speed of information.
+                - [e](https://page.twentythreeinreverse.com/) has some aspects of this.
+                    - Also happens to be a cool decentralized program (has a bit of everything).
+- The [information ecology](https://en.wikipedia.org/wiki/Information_ecology) is a _______ minefield. Craft your mind to be a tank, slogging through the muck.
+    - Adapting while moving.
+    - Real-time evolution.
+

@@ -1,0 +1,25 @@
+---
+layout: random
+comments: true
+title:  "24 August 2026"
+date: 2026-08-24 22:00:00 +0300
+---
+
+- How do ideas recruit cognitive resources and attention?
+- How does one "realize" their [cognitive light cone](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2019.02688/full)
+    - How does one expand their cognitive light cone?
+- Is language a full expression of all our being?
+    - Probably not.
+        - Actually No.
+            - So why the buzz with LLMs?
+                - Yep.
+- [No free lunch theorem](https://en.wikipedia.org/wiki/No_free_lunch_theorem)
+    - I guess we are about to find out what the other side of LLMs "solving our problems" means...
+    - Where does the bias lie?
+- These are the relevant morphisms here...
+    - Therefore a category can be constructed.
+- Category theory and the relevance problem.
+    - What about it?
+        - Something maybe.
+- How do cells do [relevance realization](https://ieeexplore.ieee.org/document/8132809)?
+    - Do cells do relevance realization?

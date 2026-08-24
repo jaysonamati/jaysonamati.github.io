@@ -1,0 +1,13 @@
+---
+layout: random
+comments: true
+title:  "23 August 2026"
+date: 2026-08-23 23:59:00 +0300
+---
+
+- Bio-Digital Jazz, man!
+- There is this notion that proof assistants (agda, narya, lean) have a sort of "mind's eye".
+    - I first came across this term from a [talk](https://www.youtube.com/watch?v=XwGtQq-1gBI) by [Astra Kolomatskaia](https://ncatlab.org/nlab/show/Astra%20Kolomatskaia).
+    - It points at a "perspective" that the language (proof assistant) has about a mathematical structure one might be reasoning about.
+    - I'm still exploring what "It really means".
+

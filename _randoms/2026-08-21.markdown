@@ -29,6 +29,7 @@ date: 2026-08-21 21:00:00 +0300
             - a potential:
                 - Creating a computational substrate through which organizations can form, coordinate, adapt, and dissolve with far less administrative cost.
                 - Imagine an org existing for 30 seconds, but creating meaningful value in that time... the same can be said for programs.
+                    - Or existing for a million years or so...
                 - Basically organizing at the speed of information.
                 - [e](https://page.twentythreeinreverse.com/) has some aspects of this.
                     - Also happens to be a cool decentralized program (has a bit of everything).

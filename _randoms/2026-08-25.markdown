@@ -13,6 +13,6 @@ date: 2026-08-25 22:00:00 +0300
         - Like ariadne's thread but of identity?
     - What's a "rate of change" of being.
         - But you can't subtract (co-product) ontologies
-        - Movement is maybe via functor(mapping preserving aspects of meaning and identity).
+        - Movement is maybe via functor(mapping preserving aspects of meaning and identity{self}).
         - What fails to be preserved forms the basis of rate of change calculation.
 

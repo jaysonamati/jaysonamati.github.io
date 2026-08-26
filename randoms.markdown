@@ -4,6 +4,8 @@ title: Randoms
 permalink: /randoms/
 ---
 
+{% include mathjax.html %}
+
 Solicited & Unsolicited thoughts. Not supported by substantial research. Seeds for past, current and future work.
 Almost like conversation starters.
 

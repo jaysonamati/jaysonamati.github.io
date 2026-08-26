@@ -1,0 +1,29 @@
+---
+layout: random
+comments: true
+title:  "26 August 2026"
+date: 2026-08-26 22:22:00 +0300
+---
+
+- Understatement is such an art form:
+    - Countless examples around
+        - A favourite in sci-fi: 
+            - H.F: I'm good with computers.
+    - In all these matters context is key...
+- An interesting phrase:
+    - "Gather my thoughts"...
+<!-- - Stuck on my mind: Get It Together (Drake, Jorja Smith and Black coffee!) -->
+- My program isn't <img src="/images/leaf_fractal.jpg" alt="image of a fractal" width="100"/> is it even...
+    - Funny that We called it Akisami.
+- Writing for other minds is different from writing for self.
+    - After a ~week of this experiment i can see why...
+        - Hmm, that's why they like physical notebooks.
+- This [one](https://arxiv.org/abs/2602.17917v1) took a while to get:
+    - $$\mathbf{PolyTr}_{\mathbb U}(\mathtt p,\mathtt q)\coloneqq \lim_{n:\mathbb N} \mathbf{PolyTr}^{(n)}_{\mathbb U}(\mathtt p,\mathtt q).$$
+        - Turns out; limits are important.
+        - Remember shifting ontological landscapes?
+            - Well, you can think of the limit here as the thread there.
+                - Does the threading here (in the limit) happen between ontological landscapes or within ontological landscapes?
+                    - Still not sure...
+        - Such a cool model (Poly).
+

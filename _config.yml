@@ -31,6 +31,7 @@ github_username:  jaysonamati
 theme: minima
 plugins:
   - jekyll-feed
+  - jemoji
 
 collections:
   randoms:

@@ -1,0 +1,17 @@
+---
+layout: random
+comments: true
+title:  "28 August 2026"
+date: 2026-08-28 21:00:00 +0300
+---
+
+- Shikamoo,
+- Leo ni Ijumaa, hivyo, twazungumza kwa lugha sanifu. 
+- Mwanahisabati [Mac Lane](https://ncatlab.org/nlab/show/Saunders+Mac+Lane) baada ya mazungumzo na mwenzake kutoka Japani [Nobuo Yoneda](https://ncatlab.org/nlab/show/Nobuo+Yoneda) alieleza kwamba:
+    - Ukitaka kukifahamu kitu, yaani [kitu](https://ncatlab.org/nlab/show/object), kikamilifu; unachohitaji tu ni kujua jinsi kinavyohusiana na vitu vingine vyote katika [mkusanyiko maalum](https://ncatlab.org/nlab/show/category).
+    - Aidha, mahusiano hayo lazima [yatangamane](https://ncatlab.org/nlab/show/natural+transformation).
+    - Yakitangamana, yanakitambulisha kitu kwa umbo lake; kinaweza kujitokeza kwa sura nyingine huku [muundo wake ukibaki uleule](https://ncatlab.org/nlab/show/isomorphism).
+    - Pata maelezo kamili [hapa](https://ncatlab.org/nlab/show/Yoneda+lemma).
+- Anyways :running: DJ!
+    - Shikamore
+

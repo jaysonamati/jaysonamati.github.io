@@ -44,13 +44,21 @@ This also happens with programming languages, mathematics, and natural language.
 
 In a way, inventing new type systems helps us see the world of mathematics better. It also allows us to computationally express ideas that we couldn’t express previously via other type theories. Much of the formalization revolution we are currently witnessing in maths is due to the invention of dependent types. We are going to show how one type theory fails to express a certain mathematical concept and how, by introducing another type theory, we are able to express the same mathematical concept.
 
-An obvious example of this is in [CCHM](https://arxiv.org/abs/1611.02108); the “new” cubical type theory allows us to prove and use univalence computationally. This is in contrast with Book HoTT, where univalence is stated as an axiom. This additional expressivity was not possible until cubical sets came into the picture.
+A type theory (type system), or in general any formal foundation, can be inadequate in distinct ways: it may lack the required syntax, fail to derive a desired principle, lack an internal semantic notion,
+fail to compute appropriately, make the formalization intractable, or preserve correctness while losing epistemic relevance.
+
+An obvious example of this is in [CCHM](https://arxiv.org/abs/1611.02108); the “new” cubical type theory allows us to prove and use univalence computationally. This is in contrast with Book HoTT,
+where univalence is stated as an axiom. This additional expressivity was not possible until cubical sets came into the picture. In particular, book (axiomatic) HoTT can postulate univalence,
+whereas cubical type theory integrates it into the computational structure of the theory
 
 We go over more examples of when different foundations and type theories fail and how introducing other foundations resolves the failures.
 
 ### Axiom of Choice
 
-A rather simple (cop out) example is that of the axiom of choice. Given set-theoretical foundations, the statement of the [axiom of choice](https://en.wikipedia.org/wiki/Axiom_of_choice) does not translate faithfully (in a way that can be proved) to type-theoretic foundations. In Type theory, we introduce the [type-theoretic axiom of choice](https://ncatlab.org/nlab/show/type+theoretic+axiom+of+choice), which is provable, unlike the set-theoretic counterpart, which is a stated axiom.
+A rather simple example is that of the axiom of choice. Given set-theoretical foundations, the statement of the [axiom of choice](https://en.wikipedia.org/wiki/Axiom_of_choice)
+does not translate faithfully (in a way that can be proved) to type-theoretic foundations. In Type theory, we introduce the [type-theoretic axiom of choice](https://ncatlab.org/nlab/show/type+theoretic+axiom+of+choice),
+which is provable, unlike the set-theoretic counterpart, which is a stated axiom. Moreover, “there exists” does not denote the same informational structure in set theory and propositions-as-types.
+The apparent disagreement over choice arises partly because two formal foundations carve the concept of existence differently.
 
 ### Function extensionality
 
@@ -64,7 +72,11 @@ Here we pit STLC against HoTT. Well, this is not a fair fight, but it proves our
 
 ### Dependent Yoneda Lemma.
 
-For this, we pit vanilla Dependent Type Theory (MLTT) against HoTT as expressed using Cubical Types. We can see where this is going: we can prove the Dependent Yoneda Lemma in HoTT with univalence, but we can't in MLTT. This is left as an exercise for the reader.[^5]
+For this, we pit vanilla Dependent Type Theory (MLTT w/ dependent types) against HoTT. While we can encode categories in MLTT and prove base Yoneda Lemma there, MLTT and ordinary HoTT lack a native
+language in which the directed morphisms of an ∞-category are primitive. We find that both MLTT and ordinary HoTT share a limitation. In HoTT, identity types behave like undirected paths,
+since every path is invertible. Riehl and Shulman therefore enrich type theory with shapes and extension types, producing a synthetic language in which Segal types, directed arrows,
+and an internal dependent Yoneda lemma can be formulated.[^5]
+The dependent Yoneda lemma does not become naturally visible until the type theory’s ontology is expanded to include the right kind of directed structure.
 
 ### Invisible Mathematics
 
@@ -117,7 +129,9 @@ This diagram illustrates how Cat (a category) is “operationalized” by a Type
 
 ### Does formalization Crystallize Mathematical thought?
 
-Given that mathematics can be thought of as a mode of being, does concretizing it in a computational substrate lead to this loss of fluidity? We do not have an answer yet.
+Given that mathematics can be thought of as a mode of being, does concretizing it in a computational substrate lead to this loss of fluidity? We do not have an answer yet. A statement we can make in
+this regard is that formalization crystallizes a particular boundary of mathematical relevance, while reflection from outside that boundary motivates its expansion. This happens over and over as novel
+formalization substrates (e.g type theories) are developed.
 
 # Conjecture 0
 
@@ -164,9 +178,9 @@ The precise claim, therefore, is not that every type theory fails to formulate s
 
 [^4]:  Bentzen: What types should not be. [Here](https://doi.org/10.1093/philmat/nkz014)
 
-[^5]:  Hint: you need funExt and univalence to prove this.
+[^5]: Emily Riehl and Michael Shulman, [“A Type Theory for Synthetic ∞-Categories”](https://arxiv.org/abs/1705.07442)
 
-[^6]:   It seems that we are putting calculating and reasoning on different sides of a scale. Calculating can be used in reasoning, therefore calculating can be viewed as a “subset” of reasoniparticular group construction to anotherngarises with the advent of proof assistants is: does the intersubjectivity that is central to mathematical.
+[^6]:   It seems that we are putting calculating and reasoning on different sides of a scale. Calculating can be used in reasoning, therefore calculating can be viewed as a “subset” of reasoning.
 
 [^7]:  Is category theory a suitable foundation of mathematics? [Lawvere](https://lawverearchives.com/wp-content/uploads/2025/07/1989.cambridgetalks.pdf) posed the question.
 

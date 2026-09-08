@@ -1,0 +1,40 @@
+---
+layout: random
+comments: true
+title:  "8 September 2026"
+date: 2026-09-08 21:00:00 +0300
+---
+
+- Found a word for it.
+    - Transgressive
+        - Not in the usual dictionary sense of the word but directionally similar.
+        - In particular; "It is transgressive, It is trying to overturn the grammar of a worldview": John Vervaeke
+- Imagine thinking at the speed of being
+    - Not natural language
+        - The "bandwidth" and "throughput" is not high enough
+        - Language is for when you "come down".
+        - Guess LLMs can't participate in this one,
+            - Or maybe we are forcing "it" to "participate" through language...
+            - Ontological hostage negotiation.
+    - Mathematics has another bandwidth/throughput
+        - One can "hold" infinity at the palm of a symbol, ∞
+    - Programs have another bandwidth/throughput
+        - Have you seen simulations?
+    - Music has another bandwidth/throughput
+        - Layered, playful, technical, sophisticated, stunning and sometimes heartbreaking. etc etc.
+    - The speed of thought ...
+        - Just have to feel it, Be in it.
+- There is this feeling that the infinite structure expressed in [∞-groupoids](https://ncatlab.org/nlab/show/infinity-groupoid) can be used as a ladder for something "other" than equivalences.
+    - This is what higher category theory is for...
+    - For instance, say One wants to express;
+        - Look at that painting, what is not there?
+            - The painter,
+        - Okay, let me paint in the painter
+        - What is still not there?
+            - The painter painting the painter
+        - Okay, let me...
+        - You get the point...
+            - But... like, you are still painting.
+        - Oh
+    - And of course, find details under the rug.
+

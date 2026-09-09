@@ -21,7 +21,7 @@ date: 2026-09-08 21:00:00 +0300
     - Programs have another bandwidth/throughput
         - Have you seen simulations?
     - Music has another bandwidth/throughput
-        - Layered, playful, technical, sophisticated, stunning and sometimes heartbreaking. etc etc.
+        - Layered, playful, technical, sophisticated, stunning and sometimes heartbreaking. and all the etcetras.
     - The speed of thought ...
         - Just have to feel it, Be in it.
 - There is this feeling that the infinite structure expressed in [∞-groupoids](https://ncatlab.org/nlab/show/infinity-groupoid) can be used as a ladder for something "other" than equivalences.

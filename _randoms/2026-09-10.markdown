@@ -1,0 +1,27 @@
+---
+layout: random
+comments: true
+title:  "10 September 2026"
+date: 2026-09-10 21:00:00 +0300
+---
+
+- So an LLM-based computer system has solved one of the Millennium problems
+    - This [one](https://www.claymath.org/millennium/navier-stokes-equation/) to be precise
+        - You can [read](https://openai.com/index/navier-stokes-solution/) all about it, they even have code...
+    - Not sure how i feel about that
+        - It is all :scream: and :cold_sweat: and cool and almost dreadful at the same time.
+        - I guess it was a matter of time
+            - Although I'm at least two days late to the announcement.
+    - Seems it's full steam ahead <!-- (anguka nayo!) (kisha kaende kaende) -->
+        - See you on the other side of the singularity ;)
+            - Space cowboy
+- One tend's to question not the premise of a conclusion:
+    - But the ground on/under which the premise is founded on.
+        - Not in the 'premise of the premise' sense however
+            - In another more,... ____ sense.
+                - Transcendental?
+- Should the computer follow (come after) the program?
+    - She once thought: "I'm sorry Alan, but we do need another computer. My program can't run on your machine."
+    - He just "riiiiight", passed and pressed play.
+    - ...
+    - Oh look! A shooting star.

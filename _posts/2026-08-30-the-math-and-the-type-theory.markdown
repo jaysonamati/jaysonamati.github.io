@@ -169,6 +169,11 @@ Feferman interprets this not as a removable defect of one formalism but as evide
 
 The precise claim, therefore, is not that every type theory fails to formulate some fixed totality called “all of mathematics,” but that no fixed, consistent, effective, and arithmetically adequate type theory is closed under all mathematically warranted reflection about itself; strengthening the theory can repair one boundary, but only by creating a new external standpoint and, with it, a new boundary.  
 
+### Still, a question lingers
+
+Gödel and his contemporaries show that certain axiomatic system can't give proofs of certain statements made in those axiomatics systems. One question that sometimes haunts me, is why?
+Why is this the case at all. In a sense, Gödel ("et al") points out that things fall on the ground but they haven't given me a precise theory of gravity. Simply, why does mathematics behave in the way Godel
+and his contemporaries describe? Why does the structure of mathematics allow such obstructions?
 
 [^1]:  There is some lore that one reason he called it univalence is because the word roughly translates to faithful in russian.
 

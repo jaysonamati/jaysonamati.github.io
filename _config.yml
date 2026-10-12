@@ -36,6 +36,8 @@ plugins:
 collections:
   randoms:
     output: true
+  scenes:
+    output: true
 
 defaults:
   - scope:
@@ -43,6 +45,11 @@ defaults:
       type: randoms
     values:
       layout: random
+  - scope:
+      path: ""
+      type: scenes
+    values:
+      layout: scene
 
 # Exclude from processing.
 # The following items will not be processed, by default.

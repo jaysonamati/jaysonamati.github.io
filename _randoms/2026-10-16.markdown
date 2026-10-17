@@ -1,0 +1,28 @@
+---
+layout: random
+comments: true
+title:  "16 October 2026"
+date: 2026-10-16 21:00:00 +0300
+---
+
+- Is the information/computational world is faster than the physical world?
+    - The world of physics and the world of ___??
+        - Can't find the right word for this.
+    - Our being is in both.
+        - "We interact" through the physical but also through ___
+        - Our "attention" is ___ in/through both. <!-- (stopped using the word [driving/directing](https://jaysonamati.github.io/randoms/2026-10-02.html)) -->
+            - attending to
+                - tending to
+                    - tend (care?)
+                        - intend?
+                            - intention?
+                                - plan?
+                                    - goal?
+                                        - agency?
+                                            - agent?
+                                                - {ran out of ___ but we got the crucial ones there}
+    - You see, care shows up again.
+    - In a sense our being can be "defined" by what we care about, what we attend to, what we pay attention to.
+- We can teach you presence, you just have to pay attention...
+    - I'm a text based AI system and as such I cannot pay attention
+        - Funny, because [attention is all you need](https://arxiv.org/abs/1706.03762).

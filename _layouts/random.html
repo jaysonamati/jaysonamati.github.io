@@ -6,6 +6,70 @@ layout: page
 
 {{ content }}
 
+<nav class="random-nav" aria-label="Randoms navigation">
+  {% if page.previous %}
+    <a class="random-nav__prev" href="{{ page.previous.url | relative_url }}" rel="prev">
+      <span class="random-nav__arrow">&larr;</span>
+      <span class="random-nav__text">
+        <small>Previous</small>
+        {{ page.previous.date | date: "%Y-%m-%d" }}
+      </span>
+    </a>
+  {% else %}
+    <span class="random-nav__spacer"></span>
+  {% endif %}
+
+  <a class="random-nav__all" href="{{ '/randoms/' | relative_url }}">All randoms</a>
+
+  {% if page.next %}
+    <a class="random-nav__next" href="{{ page.next.url | relative_url }}" rel="next">
+      <span class="random-nav__text">
+        <small>Next</small>
+        {{ page.next.date | date: "%Y-%m-%d" }}
+      </span>
+      <span class="random-nav__arrow">&rarr;</span>
+    </a>
+  {% else %}
+    <span class="random-nav__spacer"></span>
+  {% endif %}
+</nav>
+
+<style>
+  .random-nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 1rem;
+    margin: 3rem 0 2rem;
+    padding-top: 1rem;
+    border-top: 1px solid rgba(128, 128, 128, 0.3);
+  }
+  .random-nav a {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.6rem;
+    text-decoration: none;
+  }
+  .random-nav__text { display: flex; flex-direction: column; line-height: 1.2; }
+  .random-nav__text small { opacity: 0.6; font-size: 0.75em; text-transform: uppercase; letter-spacing: 0.05em; }
+  .random-nav__next .random-nav__text { text-align: right; }
+  .random-nav__arrow { font-size: 1.5rem; }
+  .random-nav__all { font-size: 0.9em; opacity: 0.8; }
+  .random-nav__spacer { min-width: 1px; }
+</style>
+
+<script>
+  document.addEventListener('keydown', function (e) {
+    if (e.metaKey || e.ctrlKey || e.altKey || e.shiftKey) return;
+    var el = e.target;
+    if (el.tagName === 'INPUT' || el.tagName === 'TEXTAREA' || el.isContentEditable) return;
+    var link = e.key === 'ArrowLeft'  ? document.querySelector('.random-nav__prev')
+             : e.key === 'ArrowRight' ? document.querySelector('.random-nav__next')
+             : null;
+    if (link) window.location.href = link.href;
+  });
+</script>
+
 <script src="https://giscus.app/client.js"
         data-repo="jaysonamati/jaysonamati.github.io"
         data-repo-id="R_kgDOMDzv7A"

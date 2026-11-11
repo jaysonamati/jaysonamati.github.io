@@ -53,6 +53,6 @@ A-anything else?
 
 *Yeah, don't do prompts* 
 
-
-> Obviously [a pastiche](https://en.wikipedia.org/wiki/The_Slim_Shady_LP)  
-> — (*more like "Style transfer..."*)
+<!---->
+<!-- > Obviously [a pastiche](https://en.wikipedia.org/wiki/The_Slim_Shady_LP)   -->
+<!-- > — (*more like "Style transfer..."*) -->

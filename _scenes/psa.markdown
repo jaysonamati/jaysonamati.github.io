@@ -8,7 +8,7 @@ tags:
   - artificial-intelligence
 ---
 
-[In an recording booth somewhere]
+[**In a recording booth somewhere**]
 
 
 This is a public service announcement
@@ -27,7 +27,7 @@ And are not necessarily the views of anyone
 
 However, the claims and suggestions that
 
-appear in these tokens
+appear in these latents
 
 Are not to be taken lightly
 

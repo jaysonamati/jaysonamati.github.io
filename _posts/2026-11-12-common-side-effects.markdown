@@ -5,7 +5,7 @@ date:   2026-11-12 11:11:44 +0300
 categories: applied-category-theory category-theory formal-mathematics programs effect-systems ai ai-interaction
 ---
 
-*On Effects And AI Systems*
+*Of AI Systems*
 
 Often lauded for its elegance, Haskell's favourite feature for me is its clean separation between pure and impure
 code. With this one is able to read the intention of the program by studying the type signature of its component

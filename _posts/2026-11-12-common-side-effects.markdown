@@ -5,9 +5,9 @@ date:   2026-11-12 11:11:44 +0300
 categories: applied-category-theory category-theory formal-mathematics programs effect-systems ai ai-interaction
 ---
 
-*Of AI Systems*
+<!-- *Of AI Systems* -->
 
-Often lauded for its elegance, Haskell's favourite feature for me is its clean separation between pure and impure
+Often lauded for its elegance, my favourite feature of Haskell is its clean separation between pure and impure
 code. With this one is able to read the intention of the program by studying the type signature of its component
 functions. Those marked with Effect constructs stand out, it is often clear that such components are doing something
 that might not be apparent in the body of the function. This warrants a programmer to have a second look and be more
@@ -29,7 +29,7 @@ Moreover, Haskell's conventional [IO](https://wiki.haskell.org/index.php?title=I
 and externally effectful computation. Languages such as Unison make it possible to introduce finer-grained, user-defined abilities,
 allowing the type signature to communicate more precisely which computational services a function requires.
 
-Effect handling often goes hand in effect specification, what we've mostly talked about above is specifying what kind of
+Effect handling often goes hand in hand with effect specification, what we've mostly talked about above is specifying what kind of
 effects a computation can have in a computational environment. Effect handling provides the *interpretation* of an operation
 specified by an effect signature. Effect handling concerns how effectful operations are interpreted and how the computation
 continues after those operations are encountered. For example, a database effect might be interpreted using PostgreSQL,
@@ -60,7 +60,7 @@ of said effects, compositional behaviour in AI agents and systems seems to take 
 a capability directly but combine two or more of these agents and who knows what they can get up to.
 
 How can we solve this? This is one of the questions that has been on my mind lately. The connection to effect systems came as
-something of a surprise. I was particularly struck by how obvious the connection seemed once I noticed it.This seems to provide
+something of a surprise. I was particularly struck by how obvious the connection seemed once I noticed it. This seems to provide
 a rich conceptual and technical foundation from which to approach the problem. What makes this exciting is also the categorical underpinnings
 of algebraic effects and adjacent computational concepts. The intuition is that there is a principled way to talk about the computational
 and operational reach of an AI system. Whether that intuition is correct remains a subject of significant research.

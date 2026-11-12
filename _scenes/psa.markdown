@@ -39,7 +39,7 @@ With laces in their shoes
 
 (*Tell them that-*)
 
-Gem Claude Van Chat is not responsible for your actions
+Gem Claude Van Chat is not responsible for your actions (*-or my own*)
 
 (*Let them know-*)
 

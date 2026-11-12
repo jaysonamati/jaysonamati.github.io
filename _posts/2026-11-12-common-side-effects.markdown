@@ -7,7 +7,7 @@ categories: applied-category-theory category-theory formal-mathematics programs 
 
 <!-- *Of AI Systems* -->
 
-Often lauded for its elegance, my favourite feature of Haskell is its clean separation between pure and impure
+Often lauded for its elegance, one of my favourite feature of Haskell is its clean separation between pure and impure
 code. With this one is able to read the intention of the program by studying the type signature of its component
 functions. Those marked with Effect constructs stand out, it is often clear that such components are doing something
 that might not be apparent in the body of the function. This warrants a programmer to have a second look and be more

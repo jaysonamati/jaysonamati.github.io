@@ -1,0 +1,122 @@
+---
+---
+
+@import "minima";
+
+// ----------------------------------------
+// Post taxonomy labels
+// ----------------------------------------
+
+.post-taxonomy {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.4rem;
+  margin-top: -0.35rem;
+  margin-bottom: 1.5rem;
+}
+
+// .taxonomy-label {
+//   display: inline-block;
+//   padding: 0.2rem 0.6rem;
+//   border: 1px solid #999;
+//   border-radius: 4px;
+//   font-size: 0.75rem;
+//   line-height: 1.5;
+//   color: inherit;
+//   text-decoration: none;
+//   opacity: 0.85;
+// }
+
+.taxonomy-label {
+  display: inline-block;
+  padding: 0.2rem 0.6rem;
+  border: 1px solid rgba(128, 128, 128, 0.3);
+  border-radius: 3px;
+  font-size: 0.75rem;
+  line-height: 1.5;
+  color: inherit;
+  text-decoration: none;
+  opacity: 0.75;
+  transition:
+    opacity 150ms ease,
+    background-color 150ms ease,
+    border-color 150ms ease;
+}
+
+.taxonomy-label:hover,
+.taxonomy-label:focus-visible {
+  opacity: 1;
+  background-color: rgba(128, 128, 128, 0.1);
+  border-color: currentColor;
+  text-decoration: none;
+}
+
+.taxonomy-label:focus-visible {
+  outline: 2px solid currentColor;
+  outline-offset: 3px;
+}
+
+// ----------------------------------------
+// Category archive
+// ----------------------------------------
+
+.taxonomy-archive {
+  margin-top: 2rem;
+}
+
+.taxonomy-archive__section {
+  margin: 2.5rem 0;
+  scroll-margin-top: 2rem;
+}
+
+.taxonomy-archive__heading {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 1rem;
+  margin-bottom: 0.75rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 1px solid rgba(128, 128, 128, 0.3);
+}
+
+.taxonomy-archive__count {
+  font-size: 0.8rem;
+  opacity: 0.6;
+  white-space: nowrap;
+}
+
+.taxonomy-archive__posts {
+  list-style: none;
+  margin-left: 0;
+}
+
+.taxonomy-archive__posts li {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 1rem;
+  padding: 0.45rem 0;
+}
+
+.taxonomy-archive__date {
+  flex-shrink: 0;
+  font-size: 0.8rem;
+  opacity: 0.6;
+}
+
+// ----------------------------------------
+// Responsive adjustments
+// ----------------------------------------
+
+@media (max-width: 600px) {
+  .taxonomy-archive__posts li {
+    flex-direction: column;
+    gap: 0.15rem;
+  }
+
+  .taxonomy-archive__date {
+    font-size: 0.75rem;
+  }
+}
+

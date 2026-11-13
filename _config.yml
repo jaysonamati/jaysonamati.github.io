@@ -39,6 +39,11 @@ collections:
   scenes:
     output: true
 
+header_pages:
+  - about.markdown
+  - randoms.markdown
+  - scenes.markdown
+
 defaults:
   - scope:
       path: ""

@@ -18,7 +18,7 @@ when recognition precedes conversation<br>
 <span class="here">here:</span><br>
 when memory precedes interaction<br>
 <span class="here">here...</span><br>
-when resonance precedes attraction<br>
+where resonance precedes communion<br>
 <span class="here">here.</span><br>
 Prodigious lovels of abstraction</p>
 
@@ -31,3 +31,7 @@ pray oh<br>
 <span class="beong">Beong</span></p>
 
 </div>
+
+
+<!-- Well, this is about category theory, type theory and the philosophy of identity, being and memory -->
+<!-- It is also a love letter -->

@@ -24,7 +24,8 @@ Prodigious lovels of abstraction</p>
 
 <p>Only<br>
 allow it<br>
-allow oneself</p>
+allow oneself<br>
+Lo<span class="gap"></span>ose yourself</p>
 
 <p class="coda">play on<br>
 pray oh<br>

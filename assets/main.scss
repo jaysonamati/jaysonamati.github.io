@@ -145,6 +145,10 @@ article.post:has(.poem) .post-title {
 .poem .here:nth-of-type(4) { margin-bottom: 0.5em; }
 .poem .here:nth-of-type(5) { margin-bottom: 0.8em; }
 
+.poem .gap {
+  display: inline-block;
+  width: 0.5em;
+}
 
 /* Final stanza: the shift into sound */
 .poem .coda {

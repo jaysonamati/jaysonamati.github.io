@@ -35,4 +35,3 @@ pray oh<br>
 
 
 <!-- Well, this is about category theory, type theory and the philosophy of identity, being and memory -->
-<!-- It is also a love letter -->
